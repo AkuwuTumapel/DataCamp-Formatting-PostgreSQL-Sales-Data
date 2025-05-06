@@ -1,5 +1,5 @@
 # DataCamp-Formatting-PostgreSQL-Sales-Data
-My work for a DataCamp project to clean and format a PostgreeSQL sales data. This project aims to gain insight regarding high sales items from a fictional store database. Here I was able to apply data cleaning and analyzing techniques such as imputing data, and data ranking.
+My work for a DataCamp project to clean and format a PostgreSQL sales data. This project aims to gain insight regarding high sales items from a fictional store database. Here I was able to apply data cleaning and analyzing techniques such as imputing data, and data ranking.
 
 ## Description
 A Super Store has data regarding their products spread across four tables in their database. The goal of the project is to perform data analysis by showing top 5 products from each category based on sales, and handle missing values by imputing them from available data.
